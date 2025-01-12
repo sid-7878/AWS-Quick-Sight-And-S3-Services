@@ -1,7 +1,7 @@
 
 # Data Visualization with Amazon QuickSight and S3
 
-## Project Overview: https://github.com/sid-7878/AWS-Quick-Sight-And-S3-Services/blob/main/AWS%20Project.pdf
+## Project Overview: _[Project Link ](https://github.com/sid-7878/AWS-Quick-Sight-And-S3-Services/blob/main/AWS%20Project.pdf)_  
 This project demonstrates how to create a dashboard using **Amazon QuickSight** and data stored in an **AWS S3 bucket**. The dashboard provides centralized tools for monitoring, analyzing, and visualizing key metrics and data points, enabling organizations to make informed decisions based on real-time data.
 
 ## Features
